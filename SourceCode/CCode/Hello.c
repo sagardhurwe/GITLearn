@@ -5,7 +5,8 @@ f(ff)
 #include<studio.h>
 int main(){
 int f(int a)
-{
+{gnbgfngfnbhdnbb
+gbgfnbgnhdb
 return 5*a;
 }
 void Hello()
