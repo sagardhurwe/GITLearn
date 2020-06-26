@@ -8,8 +8,8 @@ int f(int a)
 {gnbgfngfnbhdnbb
 gbgfnbgnhdb
 return 5*a;
-hola hola
 ola ola
+ uso uso 
 }
 void Hello()
 {
