@@ -1,5 +1,7 @@
-hvvfbjkbnkjgnb 
-fnb bm gn b
+f(ff)
+{
+
+}
 #include<studio.h>
 int main(){
 int f(int a)
