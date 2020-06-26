@@ -1,3 +1,5 @@
+hvvfbjkbnkjgnb 
+fnb bm gn b
 #include<studio.h>
 int main(){
 int f(int a)
