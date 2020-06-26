@@ -1,3 +1,7 @@
+f(ff)
+{
+
+}
 #include<studio.h>
 int main(){
 int f(int a)
@@ -11,6 +15,7 @@ printf("Hello World!");
 
 }
 //changes in github
+<<<<<<< HEAD
 voif ff()
 {
 printf().............................;
@@ -23,3 +28,8 @@ printf().............................;
 printf().............................;
 printf().............................;
 printf().............................;
+=======
+wertyuio
+asdcvbnm,
+sdfghjk
+>>>>>>> testing
