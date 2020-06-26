@@ -10,3 +10,7 @@ FAC
 {
 //code from testing branch
 }
+fib()
+{
+//calc fibbonaci
+}
